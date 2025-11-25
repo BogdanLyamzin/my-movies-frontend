@@ -2,10 +2,6 @@
 @import url("fonts.css");
 @import url("variables.css");
 
-* {
-    box-sizing: border-box;
-}
-
 body {
     font-family: "Nunito", sans-serif;
 }
