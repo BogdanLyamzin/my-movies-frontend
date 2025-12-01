@@ -1,10 +1,10 @@
-import Button from "../../shared/components/Button/Button";
+import Login from "../../modules/Login/Login";
 
 const HomePage = ()=> {
     return (
         <>
         <h1>Home page</h1>
-        <Button>Add new item</Button>
+        <Login />
         </>
     )
 }
